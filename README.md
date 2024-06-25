@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1| 2024.06.11 | 김주영 | [1week](./1week/) |
 | 2| 2024.06.18 | 박지수 | [2week](./2week/) |
-| 3| 2024.06.25 | 이대영 | |
+| 3| 2024.06.25 | 이대영 | [3week](./3week/) |
 | 4| 2024.07.02 | 최수현 | |
 | 5| 2024.07.09 | 이동원 | |
 | 6| 2024.07.16 | 박지은 | |
@@ -45,7 +45,7 @@
 
 - 김주영 | Github | Blog
 - 박지은 | Github | Blog
-- 이대영 | Github | Blog
+- 이대영 | [Github](https://github.com/eod940) | [Blog](https://eod940.tistory.com/)
 - 이동원 | Github | Blog
 - 박지수 | Github | Blog
 - 유석균 | Github | Blog
